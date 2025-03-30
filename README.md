@@ -17,7 +17,7 @@ Automation is the process of using software tools and scripts to perform tasks t
 
 - Clone this project
 - Open in Katalon Studio
-- Press Run Button (Diagonal left arrow sign)
+- Press Run Button
 
 ## Scenario:
 
